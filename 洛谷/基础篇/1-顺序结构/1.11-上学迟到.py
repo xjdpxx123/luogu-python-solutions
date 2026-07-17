@@ -1,9 +1,9 @@
 s,v = map(int, input().split())
 
-# walk_time = (s+v-1)//v，适用于整数
-walk_time = s // v
-if s%v != 0:
-    walk_time += 1
+walk_time = (s+v-1)//v # 适用于整数
+# walk_time = s // v
+# if s%v != 0:
+#     walk_time += 1
 
 total_time = walk_time + 10
 
