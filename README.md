@@ -1,2 +1,2 @@
 # luogu-python-solutions
-Personal Python solutions for Luogu problems. 我的洛谷刷题记录。
+A collection of my Python solutions to Luogu problems. 个人洛谷 Python 刷题代码合集。
