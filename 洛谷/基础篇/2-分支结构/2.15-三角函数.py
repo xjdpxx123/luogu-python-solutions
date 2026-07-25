@@ -38,7 +38,7 @@ print(str(new_small) + "/" + str(new_large))
 
 
 
-# from math import gcd # 在不使用循环的条件下，只能使用内置函数来求最大公约数
+# from math import gcd # AI：在不使用循环的条件下，只能使用内置函数来求最大公约数
 
 # a, b, c = map(int, input().split())
 
